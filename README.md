@@ -1,1 +1,1 @@
-Permissions for the Farahub framework
+Activities module for the Farahub framework
